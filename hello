@@ -1,1 +1,4 @@
-I love Thanh
+<?php 
+
+ echo "fuck";
+?>
